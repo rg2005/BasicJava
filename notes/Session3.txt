@@ -1,0 +1,5 @@
+Commands:                      Description:
+git status                     Git status shows the status of any additions/modifications/deletions
+git add *                      Git add * adds the files to local
+git commit -m "some comment"   Commits to local repository
+git push origin master         Finally they are in your github account
