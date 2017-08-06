@@ -1,0 +1,14 @@
+1. A computer is an elctronical device that can compute computer information such as numbers, words and pictures and can store and display data.
+2. Computers understand commands through binary language through the process of 0s and 1s which are like on and off switches.
+3. Computers consists of hardware and software.
+4. Hardware are things that you can touch or feel that work as a part of a computer. Some examples are CPU, Motherboard, Keyboard, GPU, RAM, Mouse, Hard Disk Drive, Solid State Drive, Sata cables, etc.
+5. The CPU or the Central Processing Unit inside the computer is the brain of the computer. This piece of hardware computes and processes information inside the computer.
+6. RAM is where data is temporarily stored for keeping data accessible for later on usage. This works like a scratchpad.
+7. The hard drive is for permanently storing data inside a computer. For example, if you want to save 100 songs that you have downloaded, the hard drive will do the job for you. The hard drive comes in two most common forms which are SSDs (Solid Stae Drives) and also HDDs (Hard Disk Drives)
+8. Software is the operational data and programs inside of the computer which are all digital.
+9. The decimal system involves the base ten number system. This is used in mathematics. There are ten digits used in the system. (0-9)
+10. Binary is a computer language that uses 0s and 1s as on and off switches. Unilike the decimal system, this computer language has only two digits.
+11. An operating system is a software that you interact to run other programs. For example, Windows, Linux, OSX, Chrome OS,
+12. A program is a series of steps or instructions given by a user.
+13. To convert binary to decimal, expand each digit with its place value and base 2. Each place value is a multiple of two starting form right to left if composed. For example, 11100111 will be (1 * 2^7) + (1 * 2^6) + (1 * 2^5) + (0 * 2^4) + (0 * 2^3) +(1 * 2^2) + (1 * 2^1) + (1 * 2^0) 128+64+32+0+0+4+2+1=231
+14. To convert a decimal to a binary, you need to split the number into a multiple of two and then you first chose the number closest to the number you chose. For example, if you chose 56, you pick 32. Next you would do 56-32 which is 24. The number that goes into 24 is 16, like that you go all the way to zero and you put the 1s and 0s where there were numbers there. 0s mean that there are no numbers so you would skip that value. In binary, numbers increase by multiples of two.
