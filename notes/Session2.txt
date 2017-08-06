@@ -1,0 +1,24 @@
+Bit: A bit is one binary digit , smallest data in a computer system and can take either 0 or 1.
+
+Byte: A byte is a group of 8 bits.
+
+Windows OS: Windows operating system is used for desktop and laptop computers. It is where all the software programs run. 
+
+Windows Version: In order to check what version of Windows you have, you need to press the windows key and search up winver.
+
+Memory: In order to see the memory of system goto Task Manager > Performance Tab> Memory
+
+Hard Disk: The hard disk is data storage device that uses magnetic storage to store and retrieve digital information.
+
+Folders and Files: A file is a group of bits. A .txt file is what you can create in notepad. A .exe file is what is executable. Folder is a collection of files and it can also contain subfolders.
+
+Command Prompt: A command prompt is a place that you can run commands.
+
+Absolute Path: It is a complete directory showing where you are. In order to go to the root directory, you use cd\
+
+Eclipse: It is a software where you can develop your programs.
+
+IDE: Interactive devopment environment environment where you can use different tools to create projects and run them. You can create new Java projects and classes and test them using run.
+
+Main: It is where the actual Java program starts.
+
