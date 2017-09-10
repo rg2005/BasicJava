@@ -1,0 +1,40 @@
+In this program, we have something called a scanner.
+
+import java.util.Scanner;
+
+public class Application {
+	public static void main(String[] args) {
+		System.out.print("first number:");
+		Scanner scanner = new Scanner(System.in);
+		int firstNumber = scanner.nextInt();
+		
+		System.out.print("second number:");
+		int secondNumber = scanner.nextInt();
+
+In above we are declaring variable scanner of type Scanner.
+
+This is how you figure out the answer to a basic problem.
+
+int x = 5;
+		int y = 2;
+		System.out.println(x/y);
+
+		double x1 = 5;
+		double y1 = 2;
+		System.out.println(x1/y1);
+
+The system.out.println will print what you have given it. You have given it to print the x/y in the first field.
+
+Pseudo logic:
+
+Here we need to print 10 times starting from 1
+We can think of something like this
+number = user input
+starting from 1 to 10
+    number * counter
+
+This is like making the program do the work for you.
+
+A shortcut for getting work done faster in eclipse is alt f. It really does help!
+
+This means that 

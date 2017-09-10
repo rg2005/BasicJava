@@ -1,0 +1,41 @@
+The connection between methods and fields in class are that Methods in class can access fields.
+
+Encapsulation:
+
+The Object Oriented Programming (OOPs for short) is what the Java langauge is based upon. 
+
+
+The second part of encapsulation is where you have a lot of items and you need to write programs or commands for each item like how a car functions. 
+
+Well, lets write a car class where you have to write a lot of things in order for a car to function.
+
+For example:
+
+public class Car {
+	String name;
+	int horsePower;
+	boolean isStarted = false;	// used to indicate whether is is started or not.
+
+	void putGasInChamber() {
+		System.out.println("putting gas in chamber");
+	}
+	
+	void igniteChamber() {
+		System.out.println("Igniting chamber");
+	}
+	
+	void moveWheels() {
+		System.out.println("moving wheels");
+	}
+}
+
+	public static void main(String[] args) {
+		Car c1 = new Car();
+		c1.name = "bmw";
+		c1.horsePower = 200;
+
+        // You need to do all these things just moving the car.
+		c1.putGasInChamber();
+		c1.igniteChamber();
+		c1.moveWheels();
+	}

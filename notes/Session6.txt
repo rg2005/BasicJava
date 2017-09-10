@@ -33,4 +33,6 @@ Person person1 = new Person();
     System.out.println(person1.name + " age is:" + person1.age);
     System.out.println(person2.name + " age is:" + person2.age);
 		
-When to put a semi-colon at the ned and when not to. When you are deciding whether to put a semi-colon at the end, they usually refer to the code as if you were reading it in English. Sometimes it the code is not formatted how you would be reading or comprehending English, then the semi-colon is not required.
+When to put a semi-colon at the ned and when not to. When you are deciding whether to put a semi-colon at the end, they usually refer to the code as if you were reading it in English. Sometimes it the code is not formatted how you would be reading or comprehending English, then the semi-colon is not required. will remove
+
+

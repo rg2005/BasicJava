@@ -1,0 +1,25 @@
+A bit is one binary digit.
+1 bit = 2 values
+2 bits =  4 values
+3 bits = 8 values
+4 bits = 16 values
+And so on...
+
+A byte is 8 bits. 
+A kilobyte is 1024 bits.
+A megabyte is 1024*1024 bits.
+A gigabyte is 1024*1024*1024 bits!
+
+Many programs have different types of files. For example, .jar, .txt, etc.
+
+The .txt file is in Notepad.exe.
+
+To open up a command prompt, you can press windows key + r.
+
+In a command prompt when you are working with different files, you can do md or cd. 
+
+Md is to create directory and cd is to change the directory. 
+
+Eclipse is another Software, where we can use to develop our own programs(software). Eclipse is diffrent kind of program where it is used to develop again programs compared to other programs like notepad, calc where we use them. Thats why we call them as IDE (I nteractive D evelopment E nvironment)
+
+A program is nothing but a series of events. When are there are a lot of instructions for the program, where do we start? That is called the main.

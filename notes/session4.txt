@@ -1,0 +1,53 @@
+Variables:
+
+In java programming, if you want to assign a variable, you can have a varible like x and assign it a value.
+
+For example, 
+x = 2
+
+The 2 is a constant because its value will never ever change.
+
+Some fundamental data types are int, String and double.
+
+Int is for writing numbers without decimals.
+String is for listing other objects.
+double is for numbers with decimals like 2.22
+
+What is a syntax? Syntax is grammar. In java you may see some syntax errors. Those syntax errors mean that you haven't formatted java program or command properly.
+
+If statement:
+
+In real life you get different paths based on certain conditions. For example if you are more than 15 years old, then you can get driver permit. If the day is Sunday or Saturday you don't have to go to school. In Java programming also you can conditions and do things only that conditions match. This is represented by if , else if and else statements.
+
+int age = 13;
+
+    if( age > 15){
+        System.out.println("you can get drivers permit");
+    }else if( age == 15){
+        System.out.println("Congratulations. today is the day where you can apply for permit.");
+    }else{
+        System.out.println("Sorry, please wait till you get 15");
+    }
+
+In java programming, if you are writing a program with age>12 it means that the age is greater than 12. 
+However, if you are trying to make a command with age=13 than you have to have == because it means that you are assigning age to 13. For example, age == 13
+
+For loop: This is used so that you can loop a command to repeat many times or a number.
+
+Here:  
+
+int i;  // For counting in loops usually variable name 'i' is used 
+
+    for(i=0 ; i<10 ; i++){
+        System.out.println("running :" + (i+1));
+    }
+
+Here is the syntax for for loop,
+
+  for( initialiation_onetime ; condition_which_should_return_true_or_false ; do_some_increment_which_runs_for_each_loop){
+        somestatements_which_will_execute_aslongas_theconditionis_true
+    }
+
+If you are commenting, than you need to have to backslashes. For example, //Java is amazing!
+
+If you want to fix a syntax error if java then hover over the x and see what is wrong.

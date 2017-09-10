@@ -1,0 +1,76 @@
+Syntax is very important when you learning programming. If you are comfortable with syntax, it makes easy to correct compilation errors and concentrate on logical programming. There is not much syntax to learn in basic Java. Lets recap some of the syntax we have learned.
+
+This is an if syntax:
+
+if(...){
+
+    }
+This is an example: 
+
+if( condition which can say true/false (yes or no)){
+        // programming statements
+        // like System.out.println
+        // some statements like x = x+2
+
+
+Given a function, if you write, x>0 && y<10,
+
+And if you make a function, it will say true or false depending or whether each part of the function is correct.
+
+This is the functio format,  
+
+    if( ... ){
+
+    }else if(...){
+
+    }else if(...){
+
+    }else if(...){
+
+    }else{
+        // If none of the above matches things will be executed here.
+    }
+
+For is used for repitition. 
+
+for( ;  ; ){
+
+    }
+
+If you want to change the class, you can do,
+
+class YourDataTypeNameHere{
+
+Actions are what you make a rpogram do. For example, they  are run, run for 10 miles, etc.
+
+Some actions in programming are,
+
+                          class Person{
+        // no input
+        // no output
+        void run(){
+
+        }
+
+        // input : bookName
+        // output: none
+        void readBook(String bookName){
+
+        }
+
+        // input: none
+        // output: miles ran
+        int tellMeMilesRanToday(){
+            return 10;
+        }
+
+        // input: money
+        // output: coffee
+        String getCoffee(int money){
+            return "latte";
+        }
+    }
+
+
+
+

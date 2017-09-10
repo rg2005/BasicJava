@@ -1,0 +1,42 @@
+What is git?
+
+Git: It is a version control system. But I wanted you know that for now, we will be using as central place to add and view our individual notes and projects. I will mention one major feature with any version control system and hence also with git which you need to know. Imagine you are writing an essay for your school project which may take a month. You have been editing this text document everyday. After editing for 10 days you thought, the one written 3 days back story is good and don't want any changes you have done for the last 3 days. What you might have done is take a backup of this document everyday like 1.txt, 2.txt, 3.txt etc., and now if you want to go back all you need is copy 7.txt and make as 10.txt and start working on it ( now you have lost 8, 9 and 10th day changes which you want anyway). This works for one file by one person. Imagine a team of 3 working on this text document and writing independently 3 different sections of it and want to combine now and then and make final copy before final submit. All these things will be made easy with any version control system like git, where multiple persons can work on the same text document , combine them, view what changes anybody has done and lot more.
+
+When we use git, we will be using git for taking notes, quizzes, etc.
+
+If you want to add new files in a command promt then you can do, the following:
+
+type notepad session3.txt
+
+in notepad type your own notes
+
+use File->Save option to save
+
+Quit the notepad
+
+now type git status this command will show any changes done in red color indicating some changes you have done.
+
+type git add * to add these files to your local git (note: you are files on local machine still)
+
+next type git status again to see all the files are shown in green.
+
+type git commit -m "some comment" This will put in to local git ( again your files are still in on your machine)
+
+type git push origin master to finally push these changes to your github account
+
+
+If you are modyfing files of your own then you can do the following:
+
+open command prompt
+cd \
+cd gitlearn\basicjava
+notepad session3.txt
+modify with new notes
+File->Save
+quit notepad
+git status
+git add *
+git commit -m "comment"
+git push origin master
+
+If you want to delete a file, you can do del or you can do windows + e
