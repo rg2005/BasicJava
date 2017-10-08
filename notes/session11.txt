@@ -1,0 +1,37 @@
+Common misconceptions:
+
+A class will have variables(fields/properties) and methods (actions):
+
+ class Car{
+        String name;
+        int horsePower;
+
+        void start(){
+            System.out.println("starting the car:" + name);
+        }
+
+        void stop(){
+            System.out.println("stopping the car:" + name);
+        }
+    }
+
+
+Constructors: Lets create a class like Person and create a object.
+
+
+  class Person{
+        String name;
+
+        void printDetails(){
+            System.out.println("name is=" + name);
+        }
+    }
+
+    class Application{
+        public static void main(String[] args){
+            Person p1 = new Person();
+            p1.printDetails();
+        }
+    }
+
+Since you are running this without anthing inserted in the quotations, the command will show up as name=null.
