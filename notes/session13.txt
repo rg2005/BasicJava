@@ -1,0 +1,28 @@
+Recap: 
+
+
+Methods are nothing but actions. An example of a method is run.
+
+An example of the syntax how you would format the method is doHomework,eatPie,etc.
+
+The void is soething taht doesn't have a return unlike int.
+
+Boolean is allowing you to do something or not do something. 
+
+For example:
+
+ boolean eatPie(){
+	return true; //or retrun false
+
+The return means that you are allowing it to do something. True means allowed and false means blocked.
+
+Constructor is really nothing but a special type of method. The constructor can be a method but the same name
+as the class. It doesn't have a return data type to it.
+
+
+There is a special keyword that you can use and that is the this.
+ this. can be used for identifying which of repeated objects that you are using.
+
+For example, age = age;
+you can use this.age = age and for anotehr instance, this.name = name.
+	
