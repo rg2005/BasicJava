@@ -1,0 +1,7 @@
+Method Overloading:
+
+Method overloading is overloading the methods with adding evry single characteristic to every method. It is really a feature that allows a class to have more than one method having the same name, if their argument lists are different.
+
+A char data type is really a data type for announcing something to be like an acronym. For example, char grade = 'A';
+
+A tip in Eclipse is that when you want to type either method name or variable name you can start typing some characters and then press enter to finish. For variables, you can chose to press ctrl or space.
