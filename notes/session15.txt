@@ -1,0 +1,75 @@
+Recap:
+
+class Student{
+        void readBook()}
+
+        }
+        void readBook(String name){
+
+        }
+        void readBook(String name, int minutesToRead){
+
+        }
+        void readBook(String name, int minutesToRead, int pageToRead){
+
+        }
+
+    class Application{
+        public static void main(String[] args){
+            Student s1 = new Student();
+            s1.readBook();
+            s1.readBook("Harry Potter");
+            s1.readBook("Harry Potter",10);
+            s1.readBook("Harry Potter", 10, 20);
+        }
+    }
+
+The data type char can only take single letters.
+
+When you are using method overloading, you can use this. or this.and for declaring a return in a method.
+
+The constructor is called a contructor because you acn use this method only when creating an object. You cannot use it any other time. 
+
+Method defining vs Method calling
+
+When you are defining a method, you are basically creating an index card. It contains the following, a name, inputs, outputs and instructions.
+
+
+This principal is used when a method is calling other methods. 
+
+   class Student{
+        String name;
+        
+        Student(String name){
+            this.name = name;
+        }
+
+        void readBook(String bookName){
+            checkOutFromLibrary(bookName);
+            readTheBook(bookName);
+            returnBookToLibrary(bookName);
+        }
+
+        void checkOutFromLibrary(String bookName){
+            System.out.println("Checking out book:" + bookName + " from library");
+        }
+
+        void readTheBook(String bookName){
+            System.out.println("Read the book out book:" + bookName + " now");   
+        }
+
+        void returnBookToLibrary(String bookName){
+            System.out.println("Returning the book:" + bookName + " back to library");
+        }
+    }
+
+    class Application{
+        public static void main(String[] args){
+            Student s1 = new Student("Joe");
+            s1.readBook("Harry Potter");
+        }
+    }
+
+Lets say instead of asking the student to read the book, ask him to checkout from library, read the book and forget to return the book 
+to library. instead of void before these methods, you put private which makes it private void. This means that whatever you are doing, you 
+will not make the moethod show up when printing the command.
