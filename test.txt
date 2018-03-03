@@ -1,0 +1,37 @@
+1a. RAM stands for the Random Access Memory and it is for acting like a scratchpad so that it can store temporary files in your Computer.
+
+1b. CPU stands for the Central Processing Unit. The CPU is known as the brain of the computer. The CPU does a lot of the work in a computer as it the hardware piece that processes how the computer runs and even functions. 
+
+2. The smallest information that I believe that you can store in your computer is one binary digit. Not just any binary digit but a binary digit of 0 with a value of 0.
+
+3. ASCII is the American Socieation of Something something Something. This is what I believe is a type of text format inside for notepad and files so that you can easily save your files in some sort of format.
+
+4. Communication.
+
+5. Grammar.
+
+6. - If
+   - Else
+
+7. Two keywords that I have used in Java programming are Enumeration and also Static.
+
+8. A data type os nothing but a "special keyword" that allows a cretain type of program to be allowed to run with allowing the program to have some special addition to what a program or programming line can consist of.
+
+9. String, Void
+
+10. A class is like a cookie cutter or a platform where java program will cease to exist where you can comminicate between your computer and you.
+
+11. An object is what you can grammar syntax that you can create with also listing your own type of variable.
+
+12. The program always starts at the first line which is the name of the class.
+
+13. A method is a a programming statement that allows you to have different variables listen so that you can list a program or a following item with following characterists. For example, a dog: Brown, hairy, dark eyes. 12 years  old.
+
+
+14. Sharing.
+
+15.  
+  Enumeration- Allowing your classes to have the same variable shared across of them with the keyword of static.
+    
+  Encapsulation- Allowing your java program to not share all information of what a program has to have said to another person.
+
